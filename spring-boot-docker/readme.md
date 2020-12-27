@@ -1,6 +1,8 @@
 Followed code on https://github.com/Java-Techie-jt/spring-boot-dockerize & 
 https://www.youtube.com/watch?v=e3YERpG2rMs&t=307s&ab_channel=JavaTechie
 
+#Used springtools suite sts 4.9.0 for development
+
 Docker commands
 ---------------
 
