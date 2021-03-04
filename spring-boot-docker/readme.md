@@ -19,7 +19,7 @@ docker push pb2021/spring-boot-rest-docker-demo:latest
 docker pull pb2021/spring-boot-rest-docker-demo:latest
 
 To delete all dangling containers and images
-docker system prune -a
+**docker system prune -a**
 
 
 In Git Bash or Bash for Windows you can use this Linux command:
